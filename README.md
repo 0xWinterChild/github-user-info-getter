@@ -1,1 +1,1 @@
-# GitHub API for fetching user information
+# Fetch GitHub user's information using GitHub API
